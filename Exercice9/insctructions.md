@@ -1,12 +1,12 @@
 # Instructions
 
-Créez une fonction JavaScript appelée `checkAge` qui prend un âge (`int`) en paramètre et renvoie un message en fonction de la tranche d'âge.
+Create a JavaScript function called `checkAge` that takes an age (`int`) as a parameter and returns a message based on the age range.
 
-- Si l'âge est **inférieur à 18 ans**, affichez `Vous êtes mineur.`
-- Si l'âge est **compris entre 18 et 65 ans** (inclus), affichez `Vous êtes majeur.`
-- Si l'âge est **supérieur à 65 ans**, affichez `Vous êtes senior.`
+- If age is **less than 18**, display `You are under 18.`
+- If the age is **between 18 and 65 years** (inclusive), display `You are an adult.`
+- If the age is **greater than 65 years**, display `You are senior.`
 
-Exemples :
+Examples:
 
 ```
 checkAge(15);   // Affiche "Vous êtes mineur."
@@ -14,4 +14,4 @@ checkAge(30);   // Affiche "Vous êtes majeur."
 checkAge(75);   // Affiche "Vous êtes senior."
 ```
 
-> Si vous avez des difficultés, vous pouvez vous référer à la partie 2 du cours [Apprenez à programmer avec JavaScript](https://openclassrooms.com/fr/courses/7696886-apprenez-a-programmer-avec-javascript/8205116-apprehendez-la-logique-de-programmation).
+> If you have difficulties, you can refer to  the course [Learn Programming With JavaScript](https://openclassrooms.com/fr/courses/5664271-learn-programming-with-javascript).

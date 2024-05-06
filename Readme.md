@@ -1,9 +1,9 @@
-# Projet 5 : Testez vos compétences, les langages du web
+# Project 5: Test your skills, web languages
 
- Pour commencer le projet lancez la commande `npm install` qui installera les dépendences du projet. 
- 
-Ensuite vous pourrez réaliser les différents exercices. 
+To start the project run the `npm install` command which will install the project dependencies.
 
-Pour vérifier que votre exercice est correctement réalisé vous n'avez qu'à lancer la commande `npm start` puis la commande `npm run test` vous verrez alors s'afficher l'application `Cypress`. Sélectionnez `E2E Testing` puis sélectionnez le navigateur dans lequel vous voulez lancer vos test. 
+Then you can perform the different exercises.
 
-Si votre code est correctement réalisé alors les tests seront décrits en vert
+To check that your exercise is correctly carried out, you just have to launch the `npm start` command then the `npm run test` command, you will then see the `Cypress` application displayed. Select `E2E Testing` then select the browser in which you want to run your tests.
+
+If your code is correctly done then the tests will be described in green

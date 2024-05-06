@@ -1,11 +1,11 @@
 # Instructions
 
-Créez une **fonction JavaScript** appelée `printNumbers` qui prend un nombre `n` en paramètre et retourne une chaine de caractères avec tous les nombres de `1` jusqu'au `n` en utilisant une boucle `for`.
+Create a **JavaScript** function called `printNumbers` that takes a number `n` as a parameter and returns a string with all numbers from `1` to `n` using a `for` loop.
 
-Exemple :
+Example :
 
-`printNumbers(5); // retournera 1 2 3 4 5`
+`printNumbers(5); // send back 1 2 3 4 5`
 
-la fonction doit être écrite avec la syntaxe `export default`
+function must be written with the `export default` syntaxes
 
-> Si vous avez des difficultés, vous pouvez vous référer à la partie 2 du cours [Apprenez à programmer avec JavaScript](https://openclassrooms.com/fr/courses/7696886-apprenez-a-programmer-avec-javascript/8205116-apprehendez-la-logique-de-programmation).
+> If you have difficulties, you can refer to  the course [Learn Programming With JavaScript](https://openclassrooms.com/fr/courses/5664271-learn-programming-with-javascript).

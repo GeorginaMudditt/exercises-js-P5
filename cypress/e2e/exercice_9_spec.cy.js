@@ -1,19 +1,18 @@
-import somme from '../../Exercice8/script'
 import checkAge from "../../Exercice9/script";
 
 describe('Unit Test for checkAge', () => {
-    it('Displays `Vous êtes mineur.` when age <18', ()=>{
-        expect(checkAge(15)).to.eq(`Vous êtes mineur.`)
+    it('Displays `You are under 18.` when age <18', ()=>{
+        expect(checkAge(15)).to.eq(`You are under 18.`)
     })
-    it('Displays `Vous êtes majeur.` when age >18 and <65', ()=>{
-        expect(checkAge(18)).to.eq(`Vous êtes majeur.`)
-        expect(checkAge(20)).to.eq(`Vous êtes majeur.`)
-        expect(checkAge(64)).to.eq(`Vous êtes majeur.`)
+    it('Displays `You are adult.` when age >18 and <65', ()=>{
+        expect(checkAge(18)).to.eq(`You are an adult.`)
+        expect(checkAge(20)).to.eq(`You are an adult.`)
+        expect(checkAge(64)).to.eq(`You are an adult.`)
     })
-    it('Displays `Vous êtes senior.` when age >=65', ()=>{
-        expect(checkAge(18)).not.to.eq(`Vous êtes senior.`)
-        expect(checkAge(65)).to.eq(`Vous êtes senior.`)
-        expect(checkAge(70)).to.eq(`Vous êtes senior.`)
+    it('Displays `You are elder.` when age >=65', ()=>{
+        expect(checkAge(18)).not.to.eq(`You are senior.`)
+        expect(checkAge(65)).to.eq(`You are senior.`)
+        expect(checkAge(70)).to.eq(`You are senior.`)
     })
 
 

@@ -1,13 +1,13 @@
 # Instructions
 
-Votre tâche consiste à utiliser SASS pour styliser la liste de la manière suivante avec le fichier `styles.scss` :
+Your task is to use SASS to style the list in the following way with the `styles.scss` file:
 
-1. Appliquez une **couleur** de texte bleue (`#007bff`) à tous les éléments de liste à l’aide d’une variable (`$blue`) ;
-2. Ajoutez un **espacement** intérieur de 10 pixels à gauche des éléments de liste ;
-3. Donnez à chaque élément de liste **une marge** inférieure de 15 pixels.
+1. Apply a blue text **color** (`#007bff`) to all list items using a variable (`$blue`);
+2. Add an inner **spacing** of 10 pixels to the left of the list items;
+3. Give each list item **a bottom margin** of 15 pixels.
 
-Une fois les modifications terminées sur le fichier `styles.scss`, n’oubliez pas de **compiler** ce même fichier dans le shell à l’aide de la commande suivante : `sass style.scss style.css`.
+Once the modifications to the `styles.scss` file are complete, don't forget to **compile** this same file in the shell using the following command: `sass style.scss style.css`.
 
-Vérifiez ensuite que la couleur bleue est appliquée sur chaque élément de la liste.
+Then check that the blue color is applied to each item in the list.
 
-> Si vous avez des difficultés, vous pouvez vous référer au cours [Simplifiez-vous le CSS avec SASS](https://openclassrooms.com/fr/courses/8069761-simplifiez-vous-le-css-avec-sass).
+> If you have difficulties, you can refer to the course [Produce Maintainable CSS With Sass](https://openclassrooms.com/fr/courses/5625786-produce-maintainable-css-with-sass).

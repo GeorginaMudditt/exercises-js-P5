@@ -2,7 +2,7 @@ describe('Validations Exercice 4: ', () => {
     beforeEach(() => {
         cy.visit("/Exercice4");
     })
-    it('Each element muest have a background color', () => {
+    it('Each element must have a background color', () => {
         cy.get('header').should('have.css', 'background-color', 'rgb(255, 204, 153)')
         cy.get('main').should('have.css', 'background-color', 'rgb(230, 242, 255)')
         cy.get('aside').should('have.css', 'background-color', 'rgb(179, 217, 255)')

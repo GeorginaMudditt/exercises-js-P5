@@ -1,5 +1,5 @@
 # Instructions
 
-Créez une **fonction JavaScript `add`** qui prend *deux nombres* (`int` ou `float`) en entrée et retourne leur **somme** (`int` ou `float`).
+Create a **JavaScript function `add`** that takes *two numbers* (`int` or `float`) as input and returns their **sum** (`int` or `float`).
 
-> Si vous avez des difficultés, vous pouvez vous référer à la partie 2 du cours [Apprenez à programmer avec JavaScript](https://openclassrooms.com/fr/courses/7696886-apprenez-a-programmer-avec-javascript/8205116-apprehendez-la-logique-de-programmation).
+> If you have difficulties, you can refer to  the course [Learn Programming With JavaScript](https://openclassrooms.com/fr/courses/5664271-learn-programming-with-javascript).

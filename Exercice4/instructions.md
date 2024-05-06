@@ -1,16 +1,16 @@
 # Instructions
 
-Appliquez des styles CSS sur le fichier HTML :
+Apply CSS styles to the HTML file:
 
-1. Définir une **couleur** d'arrière-plan différente pour chaque élément: 
-    - `header` : `#FFCC99`, 
-    - `main` : `#E6F2FF`, 
-    - `aside` `#B3D9FF`:, 
-    - `footer` : `#99CC99` ) ;
-2. Mettre en **gras** et **centrer** le texte du titre dans l'en-tête ;
-3. Ajouter une **marge** de 20 pixels autour de la section principale ;
-4. Utiliser **Flexbox** pour disposer la barre latérale à gauche et le contenu principal à droite (`aside : flex 1` et `section : flex 3`) ;
-5. Ajouter une **bordure** de 1 pixel autour de la barre latérale et du pied de page, avec une couleur de bordure grise (#CCC);
-6. Ajouter une **ombre** à l'en-tête et au pied de page pour les faire ressortir.
+1. Set a different background **color** for each element:
+   - `header`: `#FFCC99`,
+   - `main`: `#E6F2FF`,
+   - `aside` `#B3D9FF`:,
+   - `footer`: `#99CC99` );
+2. Make **bold** and **center** the title text in the header;
+3. Add a **margin** of 20 pixels around the main section;
+4. Use **Flexbox** to arrange the sidebar on the left and the main content on the right (`aside: flex 1` and `section: flex 3`);
+5. Add a 1 pixel **border** around the sidebar and footer, with a gray border color (#CCC);
+6. Add a **shadow** to the header and footer to make them stand out.
 
-> Si vous avez des difficultés, vous pouvez vous référer à la partie 3 du cours [Créez votre site web avec HTML5 et CSS3](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3/8061352-structurez-votre-page).
+> If you have difficulties, you can refer to part 3 of the course [Build Your First Web Pages With HTML and CSS](https://openclassrooms.com/fr/courses/5265446-build-your-first-web-pages-with-html-and-css/5268106-create-general-page-structure).

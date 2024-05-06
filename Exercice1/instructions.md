@@ -1,6 +1,6 @@
 # Instructions
 
-Créez une page HTML contenant un en-tête de niveau 1 (`<h1>`) avec le titre "**Mon Premier Site Web**". Ensuite, ajoutez un paragraphe de texte disant "**Bienvenue sur mon site web !**".
+Create an HTML page containing a level 1 header (`<h1>`) with the title "**My First Website**". Next, add a paragraph of text saying "**Welcome to my website!**".
 
 
-> Si vous avez des difficultés, vous pouvez vous référer à la partie 1 du cours [Créez votre site web avec HTML5 et CSS3](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3).
+> If you have difficulties, you can refer to part 1 of the course [Build Your First Web Pages With HTML and CSS](https://openclassrooms.com/fr/courses/5265446-build-your-first-web-pages-with-html-and-css).

@@ -1,15 +1,4 @@
-/* describe('template spec', () => {
-  it('passes', () => {
-    cy.visit('http://127.0.0.1:8080/P8-Exercice7/')
-    cy.get('#decimalInput').type('20')
-    cy.contains('Convertir').click()
-    cy.get('#binaryResult').should('contain.text', '10100')
-    cy.get('p#binaryResult').should('have.css', 'font-size').should('contain', '12px')
-  })
-})
-*/
-
-describe('Validations Exercice 7: ', () => {
+describe('Exercice 7: ', () => {
   beforeEach(() => {
     cy.visit("/Exercice7");
   })
