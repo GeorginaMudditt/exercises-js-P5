@@ -1,6 +1,6 @@
-describe('Validations Exercice 5: ', () => {
+describe('Exercise 5: ', () => {
     beforeEach(() => {
-        cy.visit("/Exercice5");
+        cy.visit("/Exercise5");
     })
     it('Have an anchor link that leads to Home', () => {
         cy.contains('a', 'Home', {matchCase: false}).should('have.attr', 'href', '#accueil')

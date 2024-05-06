@@ -1,6 +1,6 @@
-describe('Validations Exercice 4: ', () => {
+describe('Exercise 4: ', () => {
     beforeEach(() => {
-        cy.visit("/Exercice4");
+        cy.visit("/Exercise4");
     })
     it('Each element must have a background color', () => {
         cy.get('header').should('have.css', 'background-color', 'rgb(255, 204, 153)')

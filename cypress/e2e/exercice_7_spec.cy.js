@@ -1,6 +1,6 @@
-describe('Exercice 7: ', () => {
+describe('Exercise 7: ', () => {
   beforeEach(() => {
-    cy.visit("/Exercice7");
+    cy.visit("/Exercise7");
   })
   it('Normal display must be as defined on creating project', () => {
     cy.get('h1').should('have.css', 'font-size', '30px');

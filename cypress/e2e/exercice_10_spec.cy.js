@@ -1,4 +1,4 @@
-import printNumbers from "../../Exercice10";
+import printNumbers from "../../Exercise10";
 
 
 describe('When I call printNumbers function with number 5', () => {

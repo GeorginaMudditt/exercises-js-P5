@@ -1,4 +1,4 @@
-import checkAge from "../../Exercice9/script";
+import checkAge from "../../Exercise9/script";
 
 describe('Unit Test for checkAge', () => {
     it('Displays `You are under 18.` when age <18', ()=>{

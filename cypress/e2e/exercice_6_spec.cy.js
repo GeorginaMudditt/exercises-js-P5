@@ -1,6 +1,6 @@
-describe('Validations Exercice 6: ', () => {
+describe('Exercise 6: ', () => {
     beforeEach(() => {
-        cy.visit("/Exercice6");
+        cy.visit("/Exercise6");
     })
     it('Should have blue li', () => {
         cy.get('li').each($li => {

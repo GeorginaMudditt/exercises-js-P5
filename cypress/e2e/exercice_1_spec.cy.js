@@ -1,6 +1,6 @@
-describe("Exercice 1", ()=>{
+describe("Exercise 1", ()=>{
     beforeEach(() => {
-        cy.visit("/Exercice1");
+        cy.visit("/Exercise1");
     })
 
     it("Should render the heading element", ()=>{

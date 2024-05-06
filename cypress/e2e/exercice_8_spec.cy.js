@@ -1,4 +1,4 @@
-import add from '../../Exercice8/script'
+import add from '../../Exercise8/script'
 
 describe('Unit Test for Add', () => {
     it('Adding 2 + 3 should return 5', ()=>{
