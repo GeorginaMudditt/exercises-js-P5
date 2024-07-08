@@ -1,7 +1,7 @@
 
 header {
     background-color: #FFCC99;
-    box-shadow: 0px 2px 4px rgba(204, 204, 204, 0.5);
+    box-shadow: 1px 2px 4px rgba(204, 204, 204, 0.5);
 }
 
 main {
@@ -27,7 +27,7 @@ footer {
     border-style: solid;
     border-color: rgb(204, 204, 204);
     border-width: 1px;
-    box-shadow: 0px 2px 4px rgba(204, 204, 204, 0.5);
+    box-shadow: 1px 2px 4px rgba(204, 204, 204, 0.5);
 }
 
 h1 {

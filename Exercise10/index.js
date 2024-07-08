@@ -1,9 +1,9 @@
 //votre code ici
 
 export default function printNumbers (n) {
-    let result = '';
+    let result = "";
     for (let i = 1; i <= n; i++) {
-        result += i;
+        result += i + ' ';
     }
-    return result;
+    return result.trim();
 }
